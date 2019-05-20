@@ -1,0 +1,5 @@
+user.email=cf18andrey.melnikov@iesjoandaustria.org
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
